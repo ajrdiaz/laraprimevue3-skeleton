@@ -1,4 +1,4 @@
-# Laravel Jetstream & PrimeVue
+# Laravel 11 Jetstream & PrimeVue V3
 A starter kit using [Laravel Jetstream](https://jetstream.laravel.com/introduction.html) with the [Intertia.js](https://inertiajs.com/) Vue option, utilizing [PrimeVue](https://primevue.org/) components.
 
 ## Installation 
