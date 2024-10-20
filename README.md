@@ -43,9 +43,19 @@ A starter kit using [Laravel Jetstream](https://jetstream.laravel.com/introducti
    npm install
    ```
 
-7. Start the Vite dev server
+7. Start Laravel dev server in port(optional)
+   ```
+   php artisan serve --port=8081
+   ```
+
+8. Start the Vite dev server
    ```
    npm run dev
+   ```
+
+9. Access through:
+   ```
+   http://localhost:8081
    ```
 
 ## Theme
