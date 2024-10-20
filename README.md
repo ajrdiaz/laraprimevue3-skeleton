@@ -9,7 +9,7 @@ A starter kit using [Laravel Jetstream](https://jetstream.laravel.com/introducti
 
 2. Step into the project directory
    ```
-   cd ./primevue-breeze-inertia
+   cd ./laraprimevue3-skeleton
    ```
 
 3. Install the framework and other packages
