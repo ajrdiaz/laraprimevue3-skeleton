@@ -11,6 +11,11 @@ import { useLayout } from '@/Layouts/composables/layout';
 import Toast from "primevue/toast";
 import ProgressSpinner from 'primevue/progressspinner';
 
+defineProps({
+    titulo: String,
+    no_bordes: Boolean,
+});
+
 const $primevue = usePrimeVue();
 const { spinnerLoading, layoutConfig, layoutState, isSidebarActive } = useLayout();
 const outsideClickListener = ref(null);
